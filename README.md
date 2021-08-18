@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with all important things for learning in web development
 ##
 ### Reach me : 
-- <a target="_blank" href="https://www.instagram.com/darwin___333/">Email</a>On Email
+- <a target="_blank" href="https://www.instagram.com/darwin___333/">Email</a> On Email
