@@ -1,4 +1,4 @@
-### Hello World <img src="/img/Hi.gif">
+### Hello World  <img width="25px" src="/img/Hi.gif">
 ##
 - 🔭 I’m currently working on front end development
 - 🌱 I’m currently learning JavaScript and Python
